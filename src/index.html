@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" ng-app="App">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>app</title>
+
+        <!-- bower:css -->
+        <link rel="stylesheet" href="vendor/bootstrap/dist/css/bootstrap.css" />
+        <!-- endbower -->
+       
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script src='//maps.googleapis.com/maps/api/js'></script>
+        <script src='//google-maps-utility-library-v3.googlecode.com/svn/tags/markerclustererplus/2.1.2/src/markerclusterer.js'></script>
+        
+
+    </head>
+    <body >
+        <div ui-view></div>
+
+        <!-- bower:js -->
+        <script src="vendor/jquery/dist/jquery.js"></script>
+        <script src="vendor/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="vendor/angular/angular.js"></script>
+        <script src="vendor/angular-ui-router/release/angular-ui-router.js"></script>
+        <script src="vendor/angular-cookies/angular-cookies.js"></script>
+        <script src="vendor/lodash/dist/lodash.compat.js"></script>
+        <script src="vendor/angular-google-maps/dist/angular-google-maps.js"></script>
+        <script src="vendor/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+        <!-- endbower -->
+
+        
+       
+        <!-- app -->
+        <script src="app/app.js"></script>
+        <script src="app/config/routes.js"></script>
+        <script src="app/config/config.js"></script>
+
+        <script src="app/services/service.js"></script>
+        
+        <script src="app/views/layout.js"></script>
+        <script src="app/views/dashboard.js"></script>
+        
+        <!-- app -->
+    </body>
+</html>

@@ -1,0 +1,243 @@
+[
+    {
+        "region": "East Midlands",
+        "university": "De Montfort University",
+        "url": "http://store.apple.com/uk_edu_5000657"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Derby University",
+        "url": "http://store.apple.com/uk_edu_5000659"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Jisc Collections and Janet Limited",
+        "url": "http://store.apple.com/uk_edu_5004321"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Leicester University",
+        "url": "http://store.apple.com/uk_edu_5000710"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Loughborough College",
+        "url": "http://store.apple.com/uk_edu_5000723"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Loughborough University",
+        "url": "http://store.apple.com/uk_edu_5002639"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Nottingham Trent University",
+        "url": "http://store.apple.com/uk_edu_5000747"
+    },
+    {
+        "region": "East Midlands",
+        "university": "Nottingham University",
+        "url": "http://store.apple.com/uk_edu_5000748"
+    },
+     {
+        "region": "Eastern",
+        "university": "Babraham Institute",
+        "url": "http://store.apple.com/uk_edu_5000832"
+    },
+    {
+        "region": "Eastern",
+        "university": "Chelmsford College",
+        "url": "http://store.apple.com/uk_edu_5000635"
+    },
+    {
+        "region": "Eastern",
+        "university": "Cranfield University",
+        "url": "http://store.apple.com/uk_edu_5000654"
+    },
+    {
+        "region": "Eastern",
+        "university": "Essex University",
+        "url": "http://store.apple.com/uk_edu_5000671"
+    },
+    {
+        "region": "Eastern",
+        "university": "Harlow College",
+        "url": "http://store.apple.com/uk_edu_5000683"
+    },
+    {
+        "region": "Eastern",
+        "university": "Havering College of F &amp; HE",
+        "url": "http://store.apple.com/uk_edu_5000686"
+    },
+    {
+        "region": "Eastern",
+        "university": "Herts University",
+        "url": "http://store.apple.com/uk_edu_5000688"
+    },
+    {
+        "region": "London",
+        "university": "Goldsmiths College",
+        "url": "http://store.apple.com/uk_edu_5000678"
+    },
+    {
+        "region": "London",
+        "university": "Guy's, King's &amp; St Thomas' Schools of Medicine",
+        "url": "http://store.apple.com/uk_edu_5000681"
+    },
+    {
+        "region": "London",
+        "university": "Highbury College",
+        "url": "http://store.apple.com/uk_edu_5000689"
+    },
+    {
+        "region": "London",
+        "university": "Imperial College",
+        "url": "http://store.apple.com/uk_edu_5000692"
+    },
+    {
+        "region": "London",
+        "university": "Institute of Cancer Research",
+        "url": "http://store.apple.com/uk_edu_5000693"
+    },
+    {
+        "region": "London",
+        "university": "Institute of Education",
+        "url": "http://store.apple.com/uk_edu_5000694"
+    },
+    {
+        "region": "Northern Ireland",
+        "university": "Jisc Collections and Janet Limited",
+        "url": "http://store.apple.com/uk_edu_5004321"
+    },
+    {
+        "region": "Northern Ireland",
+        "university": "Open University",
+        "url": "http://store.apple.com/uk_edu_5000751"
+    },
+    {
+        "region": "Northern Ireland",
+        "university": "Queens University",
+        "url": "http://store.apple.com/uk_edu_5000761"
+    },
+    {
+        "region": "Northern Ireland",
+        "university": "St Mary's University College NI",
+        "url": "http://store.apple.com/uk_edu_5000798"
+    },
+    {
+        "region": "Northern Ireland",
+        "university": "Stranmillis University College",
+        "url": "http://store.apple.com/uk_edu_5000804"
+    },
+    {
+        "region": "Northern Ireland",
+        "university": "Ulster University",
+        "url": "http://store.apple.com/uk_edu_5000821"
+    },
+    {
+        "region": "Scotland",
+        "university": "Aberdeen University",
+        "url": "http://store.apple.com/uk_edu_5000600"
+    },
+    {
+        "region": "Scotland",
+        "university": "Abertay University",
+        "url": "http://store.apple.com/uk_edu_5000601"
+    },
+    {
+        "region": "Scotland",
+        "university": "AFRC Roslin Institute",
+        "url": "http://store.apple.com/uk_edu_5000602"
+    },
+    {
+        "region": "Scotland",
+        "university": "Bell Hamilton College",
+        "url": "http://store.apple.com/uk_edu_5000615"
+    },
+    {
+        "region": "Scotland",
+        "university": "Borders College",
+        "url": "http://store.apple.com/uk_edu_5000621"
+    },
+    {
+        "region": "South East",
+        "university": "Southampton Solent University",
+        "url": "http://store.apple.com/uk_edu_5000789"
+    },
+    {
+        "region": "South East",
+        "university": "Southampton University",
+        "url": "http://store.apple.com/uk_edu_5000790"
+    },
+    {
+        "region": "South East",
+        "university": "Surrey University",
+        "url": "http://store.apple.com/uk_edu_5000808"
+    },
+    {
+        "region": "South East",
+        "university": "Sussex University",
+        "url": "http://store.apple.com/uk_edu_5000809"
+    },
+    {
+        "region": "South East",
+        "university": "University of Chichester",
+        "url": "http://store.apple.com/uk_edu_5000822"
+    },
+    {
+        "region": "South East",
+        "university": "University of Winchester",
+        "url": "http://store.apple.com/uk_edu_5000830"
+    },
+    {
+        "region": "South East",
+        "university": "University College for the Creative Arts at Canterbury",
+        "url": "http://store.apple.com/uk_edu_5000823"
+    },
+    {
+        "region": "South East",
+        "university": "University College for the Creative Arts at Epsom",
+        "url": "http://store.apple.com/uk_edu_5000824"
+    },
+     {
+        "region": "Wales",
+        "university": "Coleg Sir Gar",
+        "url": "http://store.apple.com/uk_edu_5000649"
+    },
+    {
+        "region": "Wales",
+        "university": "Deeside College",
+        "url": "http://store.apple.com/uk_edu_5000658"
+    },
+    {
+        "region": "Wales",
+        "university": "Glamorgan University",
+        "url": "http://store.apple.com/uk_edu_5000674"
+    },
+    {
+        "region": "Wales",
+        "university": "Gorseinon College",
+        "url": "http://store.apple.com/uk_edu_5000679"
+    },
+    {
+        "region": "Wales",
+        "university": "Merthyr Tydfil College",
+        "url": "http://store.apple.com/uk_edu_5000727"
+    },
+    {
+        "region": "Wales",
+        "university": "Neath Port Talbot College",
+        "url": "http://store.apple.com/uk_edu_5000735"
+    },
+    {
+        "region": "Wales",
+        "university": "NEWI (North East Wales Institute)",
+        "url": "http://store.apple.com/uk_edu_5000741"
+    },
+    {
+        "region": "Wales",
+        "university": "Open University",
+        "url": "http://store.apple.com/uk_edu_5000751"
+    }
+    
+]
